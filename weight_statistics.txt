@@ -1,0 +1,5 @@
+Linear regression model: weight = nan*date + nan
+Coefficient of determination (R^2): 0.00
+Mean weight: 95.60 kg
+Median weight: 95.60 kg
+Standard Deviation: 0.00 kg
