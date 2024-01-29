@@ -1,5 +1,3 @@
-Certainly! Here's the entire content converted into Markdown format, which you can directly use for your GitHub README:
-
 ```markdown
 # Weight Tracker Analysis
 
